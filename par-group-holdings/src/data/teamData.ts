@@ -198,41 +198,6 @@ export const anthuriTeam: TeamMember[] = [
     { value: 6, label: "Core Competencies" }
     ]
   },
-  {
-  slug: "sylvester-albanie",
-  name: "Sylvester Albanie",
-  role: "Investment Analyst",
-  bio: "Leads fundraising, dealmaking, and post-investment value creation across private and listed markets.",
-  image: sly,
-  division: "Anthuri Fund",
-  divisionPath: "/anthuri-fund",
-  fullBio: [
-    "Sylvester Albanie is an Investment Principal at Anthuri Fund, with extensive experience across banking, private equity, fund management, and listed-market transactions. His work spans the full investment lifecycle, from origination and structuring to execution and post-investment oversight.",
-    "He has invested across start-ups, SMEs, property, and mid-market transactions, and has led mergers, acquisitions, and disposals in the listed space. Sylvester has also served as a pension fund trustee and brings strong governance and risk oversight to portfolio companies.",
-    "At Anthuri, Sylvester is responsible for fundraising, operational oversight, and deal execution, with active board-level involvement post-investment. In his personal capacity, he manages listed equity investments for his family and serves on the Boland Cricket Board."
-  ],
-  expertise: [
-    "Private Equity",
-    "Fundraising",
-    "Deal Origination & Execution",
-    "Mergers & Acquisitions",
-    "Listed Market Transactions",
-    "Board & Governance Oversight",
-    "SME & Mid-Market Investing"
-  ],
-  achievements: [
-    "Led and executed private and listed-market M&A transactions",
-    "Managed investments across start-ups, SMEs, property, and mid-market assets",
-    "Served as pension fund trustee with fiduciary oversight responsibilities",
-    "Active board participation across portfolio companies",
-    "Contributed to governance and strategy as a Boland Cricket Board member"
-  ],
-  stats: [
-    { value: 15, label: "Years Experience", suffix: "+" },
-    { value: 20, label: "Transactions & Investments" },
-    { value: 7, label: "Core Investment Areas" }
-  ]
-}
 ];
 
 export const parvestTeam: TeamMember[] = [
